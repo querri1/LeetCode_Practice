@@ -51,7 +51,8 @@
 
 
 //There is no code of Java type for this problem
-
+# Write your MySQL query statement below、
+SELECT product_id FROM Products WHERE low_fats = 'Y' AND recyclable = 'Y';
 //此题解答：
 //# Write your MySQL query statement below、
 //select product_id from  Products where low_fats = 'Y' and recyclable = 'Y';
