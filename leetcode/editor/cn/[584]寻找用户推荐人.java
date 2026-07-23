@@ -53,7 +53,8 @@
 
 
 //There is no code of Java type for this problem
-
+# Write your MySQL query statement below
+SELECT name FROM Customer where referee_id != 2 OR referee_id is null;
 //此题解答
 //# Write your MySQL query statement below
 //SELECT name FROM Customer where referee_id != 2 OR referee_id is null;
